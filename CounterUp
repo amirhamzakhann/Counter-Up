@@ -1,15 +1,14 @@
-<head>
-    <script>
-        jQuery(document).ready(function($) {
-            $('.counter').counterUp({
-                delay: 10,
-                time: 1000
-            });
-        });
-    </script>
-</head>
+This script Add to custom js
+$('.counter').counterUp({
+  delay: 10,
+  time: 1000
+});
+
 <body>
     <span class="counter">1,234,567</span>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="jquery.counterup.min.js"></script>
+    
+    This 2 script add my html file
+    and two script code is
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/counterup.min.js"></script>
 </body> 
